@@ -167,7 +167,7 @@ namespace JournalFileTransfer
                 foreach (String s in FilesNotFound)
                     tw.WriteLine(s);
                 tw.Close();
-                MessageBox.Show(FilesNotFound.Count + " files were not found.\n\r " + "Check the \"FilesNotFound.txt\" file for this list:");
+                MessageBox.Show(FilesNotFound.Count + " files were not found.\n\r " + "Check the <SaveDest>\"FilesNotFound.txt\" file for this list:");
             }
 
             MessageBox.Show("Complete!");

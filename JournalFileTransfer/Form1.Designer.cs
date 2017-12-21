@@ -75,7 +75,7 @@
             // 
             // btBeginImport
             // 
-            this.btBeginImport.Location = new System.Drawing.Point(146, 199);
+            this.btBeginImport.Location = new System.Drawing.Point(146, 234);
             this.btBeginImport.Name = "btBeginImport";
             this.btBeginImport.Size = new System.Drawing.Size(108, 33);
             this.btBeginImport.TabIndex = 3;
@@ -146,7 +146,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.MenuBar;
-            this.ClientSize = new System.Drawing.Size(400, 242);
+            this.ClientSize = new System.Drawing.Size(400, 277);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.textBox3);
